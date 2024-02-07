@@ -1,7 +1,7 @@
 ## :whale2: Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,dart)](https://github.com/dominus10)
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,next,astro,flutter)](https://github.com/dominus10)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,next,astro,svelte,flutter)](https://github.com/dominus10)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql)](https://github.com/dominus10)
 
